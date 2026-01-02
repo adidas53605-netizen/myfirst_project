@@ -1,2 +1,4 @@
-# myfirst_project
-A personal portfolio website  showcasing my skills,projects and contact information .Built with HTML,CSS,and Javascript,focusing on responsive design and simplicity.deployed using Github pages for public access
+# myfirst-project
+
+A beginner-friendly Python web application built using Flask.
+This project is created for learning backend development and will be publicly deployed for demonstration purposes.
